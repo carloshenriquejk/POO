@@ -1,0 +1,20 @@
+unit pessoa;
+
+interface
+
+type
+  TPessoa = class
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    id :Integer;
+    nome : string;
+    Tipo : string;
+    Email : string;
+  end;
+
+implementation
+
+end.

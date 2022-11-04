@@ -1,0 +1,19 @@
+unit pessoa;
+
+interface
+
+type
+  TPessoa = class
+
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    nome : string;
+    Datanascimento: string;
+    idade: TUtus;
+  end;
+
+implementation
+
+end.
