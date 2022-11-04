@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/11/03 22:21:31.144,=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 22:29:06.871,C:\Users\Carlos\Documents\Poo\Polimorfismo\Unit1.dfm=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/03 22:29:06.871,C:\Users\Carlos\Documents\Poo\Polimorfismo\Unit1.pas=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 22:29:12.904,C:\Users\Carlos\Documents\Poo\Polimorfismo\Polimorfismo.dproj=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/03 22:30:18.006,=C:\Users\Carlos\Documents\Poo\Polimorfismo\Unit2.pas</Transaction>
+    <Transaction>2022/11/03 22:35:49.862,C:\Users\Carlos\Documents\Poo\Polimorfismo\pessoa.pas=C:\Users\Carlos\Documents\Poo\Polimorfismo\Unit2.pas</Transaction>
+    <Transaction>2022/11/03 22:35:56.370,=C:\Users\Carlos\Documents\Poo\Polimorfismo\Unit2.pas</Transaction>
+    <Transaction>2022/11/03 22:36:48.128,C:\Users\Carlos\Documents\Poo\Polimorfismo\cliente.pas=C:\Users\Carlos\Documents\Poo\Polimorfismo\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,11 @@
+unit cliente;
+
+interface
+tcliente = class(Tpesoa)
+  private
+  public
+end;
+
+implementation
+
+end.
