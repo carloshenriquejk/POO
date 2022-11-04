@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/11/02 21:23:46.730,=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/02 21:24:37.431,C:\Users\Carlos\Documents\Poo\Herança\Unit1.pas=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/02 21:24:37.431,C:\Users\Carlos\Documents\Poo\Herança\Unit1.dfm=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/02 21:24:58.391,C:\Users\Carlos\Documents\Poo\Herança\Heranca.dproj=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/02 21:25:06.326,=C:\Users\Carlos\Documents\Poo\Herança\Unit2.pas</Transaction>
+    <Transaction>2022/11/02 21:25:14.552,C:\Users\Carlos\Documents\Poo\Herança\Pessoa.pas=C:\Users\Carlos\Documents\Poo\Herança\Unit2.pas</Transaction>
+    <Transaction>2022/11/02 21:44:59.190,=C:\Users\Carlos\Documents\Poo\Herança\Unit2.pas</Transaction>
+    <Transaction>2022/11/02 21:46:52.217,C:\Users\Carlos\Documents\Poo\Herança\cliente.pas=C:\Users\Carlos\Documents\Poo\Herança\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
