@@ -1,0 +1,27 @@
+unit cliente;
+
+interface
+
+uses
+System.SysUtils,
+
+type
+Tcliente = class(Tpessoa)
+  public
+  FCPF : string;
+  private
+
+  property CPF: string read FCPF write FCPF;
+  function RetornarDados :string; override;
+
+end;
+implementation
+
+{ Tcliente }
+
+function Tcliente.RetornarDados: string;
+begin
+
+end;
+
+end.

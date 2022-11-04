@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/11/04 10:18:24.504,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/04 10:19:05.073,C:\Users\Administrador\Documents\poo\abstract\Unit2.pas=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/04 10:19:05.073,C:\Users\Administrador\Documents\poo\abstract\Unit2.dfm=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/11/04 10:19:13.496,C:\Users\Administrador\Documents\poo\abstract\abstract.dproj=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2022/11/04 10:19:42.728,=C:\Users\Administrador\Documents\poo\abstract\Unit1.pas</Transaction>
+    <Transaction>2022/11/04 10:20:22.525,C:\Users\Administrador\Documents\poo\abstract\pessoa.pas=C:\Users\Administrador\Documents\poo\abstract\Unit1.pas</Transaction>
+    <Transaction>2022/11/04 10:26:16.504,=C:\Users\Administrador\Documents\poo\abstract\Unit1.pas</Transaction>
+    <Transaction>2022/11/04 10:26:21.581,C:\Users\Administrador\Documents\poo\abstract\cliente.pas=C:\Users\Administrador\Documents\poo\abstract\Unit1.pas</Transaction>
+    <Transaction>2022/11/04 14:23:24.863,=C:\Users\Administrador\Documents\poo\abstract\Unit1.pas</Transaction>
+    <Transaction>2022/11/04 14:23:31.409,C:\Users\Administrador\Documents\poo\abstract\usuario.pas=C:\Users\Administrador\Documents\poo\abstract\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,24 @@
+unit usuario;
+
+interface
+uses
+pessoa;
+type
+Tcliente = class(Tpessoa)
+  private
+  FCPF : string;
+  public
+  property CPF: string read FCPF write FCPF;
+ function contrato :string ;override;
+end;
+
+implementation
+
+{ Tcliente }
+
+function Tcliente.contrato: string;
+begin
+Result := 'TusuarioContrato'
+end;
+
+end.
