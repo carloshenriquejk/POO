@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{F72C6121-0E39-4AA8-804B-664ABE0DA31E}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="abstract.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\..\Embarcadero\Studio\Projects\metodologia.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="abstract">
+        <MSBuild Projects="abstract.dproj"/>
+    </Target>
+    <Target Name="abstract:Clean">
+        <MSBuild Projects="abstract.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="abstract:Make">
+        <MSBuild Projects="abstract.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="metodologia">
+        <MSBuild Projects="..\..\Embarcadero\Studio\Projects\metodologia.dproj"/>
+    </Target>
+    <Target Name="metodologia:Clean">
+        <MSBuild Projects="..\..\Embarcadero\Studio\Projects\metodologia.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="metodologia:Make">
+        <MSBuild Projects="..\..\Embarcadero\Studio\Projects\metodologia.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="abstract;metodologia"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="abstract:Clean;metodologia:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="abstract:Make;metodologia:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

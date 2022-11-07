@@ -30,9 +30,8 @@ end;
 
 function Tcliente.RetornaDados: string;
 begin
- Result := ' Nome:'+ self.Nome +
-   ', Data de Nacsimento:' + self.DataNacsimento+
-   ', Idade: ' + self.idade.ToString;
+inherited;
+ Result := Dados + 'CPF: '+ CPF;
 
 end;
 

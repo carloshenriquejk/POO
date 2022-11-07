@@ -5,16 +5,19 @@ uses
  System.SysUtils;
 
  type
+
  TPessoa = class
      private
-    FNome: string;
-    FDataNacsimento: string;
+     Fdados : string;
+     FNome: string;
+     FDataNacsimento: string;
      public
      property Nome: string read FNome write FNome;
      property DataNacsimento: string read FDataNacsimento write FDataNacsimento;
      function idade: integer;
      function RetornaDados:string ;Virtual;
      function contrato :string ;Virtual; abstract;
+     property dados: string read Fdados write Fdados;
  end;
 
 implementation
@@ -28,7 +31,7 @@ end;
 
 function TPessoa.RetornaDados: string;
 begin
-   Result := ' Nome:'+ FNome +
+   Dados := ' Nome:'+ FNome +
    ', Data de Nacsimento:' + FDataNacsimento+
    ', Idade: ' + self.idade.ToString;
 end;
