@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/11/11 11:18:19.000.042,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/11/11 11:19:25.000.728,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Administrador\Documents\Generics\projeto\Generics.dfm</Transaction>
+    <Transaction>2022/11/11 11:19:25.000.728,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Administrador\Documents\Generics\projeto\Generics.pas</Transaction>
+    <Transaction>2022/11/11 11:19:30.000.475,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Administrador\Documents\Generics\projeto\Project2.dproj</Transaction>
+    <Transaction>2022/11/11 16:30:27.000.294,=C:\Users\Administrador\Documents\Generics\projeto\Unit1.pas</Transaction>
+    <Transaction>2022/11/11 16:30:44.000.448,C:\Users\Administrador\Documents\Generics\projeto\Unit1.pas=C:\Users\Administrador\Documents\Generics\projeto\validacao.pas</Transaction>
+    <Transaction>2022/11/11 16:30:44.000.448,C:\Users\Administrador\Documents\Generics\projeto\Unit1.dfm=C:\Users\Administrador\Documents\Generics\projeto\validacao.dfm</Transaction>
+    <Transaction>2022/11/11 17:04:46.677,=C:\Users\Administrador\Documents\Generics\projeto\Unit3.pas</Transaction>
+    <Transaction>2022/11/11 17:33:32.751,C:\Users\Administrador\Documents\Generics\projeto\list.pas=C:\Users\Administrador\Documents\Generics\projeto\Unit3.pas</Transaction>
+    <Transaction>2022/11/11 17:33:32.752,C:\Users\Administrador\Documents\Generics\projeto\list.dfm=C:\Users\Administrador\Documents\Generics\projeto\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
